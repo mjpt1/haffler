@@ -1,0 +1,8 @@
+Petbot - device connection info (keep private)
+
+Panel:       https://mahsen81.ir/petbot
+Server URL:  https://mahsen81.ir/petbot
+Device key:  ca4bb12cdb0b287c5022fdacc34da60a86a221fd
+
+Board setup: connect a phone to WiFi "Petbot-Setup" (or open http://<board IP>/ on the home network),
+enter home WiFi, Server URL and Device key, then Save.

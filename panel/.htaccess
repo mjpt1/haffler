@@ -1,0 +1,5 @@
+# Block direct access to private files
+<FilesMatch "^(config\.php|config\.sample\.php|lib\.php|schema\.sql|install\.lock)$">
+  Require all denied
+</FilesMatch>
+Options -Indexes
